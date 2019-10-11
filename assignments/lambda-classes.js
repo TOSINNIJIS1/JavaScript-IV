@@ -166,7 +166,7 @@ console.log(ali.speak());
 fred.speak();
 console.log(fred.demo('JavaScript'));
 console.log(fred.grade(ali, 'Javascript IV'));
-console.log(aby.listSubjects);
+console.log(dory.listSubjects());
 console.log(aby.PRAssignment(dory, 'Economics'));
 console.log(dory.sprintChallenge(aby, 'Javascript II'));
 console.log(tom.standUp('Derrick', 'Slack'));
